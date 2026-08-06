@@ -26,6 +26,7 @@ My leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anuttaman216/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anuttaman216/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
