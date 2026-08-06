@@ -11,6 +11,7 @@ My leetcode problems
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Anuttaman216/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,8 +53,13 @@ My leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
