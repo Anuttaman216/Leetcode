@@ -15,4 +15,12 @@ My leetcode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuttaman216/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anuttaman216/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anuttaman216/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
