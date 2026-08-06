@@ -10,6 +10,7 @@ My leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuttaman216/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anuttaman216/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -49,4 +51,8 @@ My leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
