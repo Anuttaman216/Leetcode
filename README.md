@@ -6,6 +6,7 @@ My leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuttaman216/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuttaman216/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ My leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuttaman216/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
