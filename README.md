@@ -10,6 +10,7 @@ My leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuttaman216/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuttaman216/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -44,6 +45,7 @@ My leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Anuttaman216/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuttaman216/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
