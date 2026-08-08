@@ -52,6 +52,7 @@ My leetcode problems
 | [0001-two-sum](https://github.com/Anuttaman216/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuttaman216/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anuttaman216/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuttaman216/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +64,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anuttaman216/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
@@ -77,6 +79,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuttaman216/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Anuttaman216/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
