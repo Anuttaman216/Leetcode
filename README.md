@@ -10,6 +10,7 @@ My leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuttaman216/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Anuttaman216/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Anuttaman216/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuttaman216/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ My leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Anuttaman216/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuttaman216/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Anuttaman216/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anuttaman216/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
@@ -64,6 +66,7 @@ My leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anuttaman216/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anuttaman216/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
@@ -81,6 +84,7 @@ My leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuttaman216/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anuttaman216/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Anuttaman216/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anuttaman216/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
