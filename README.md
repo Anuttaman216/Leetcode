@@ -16,6 +16,7 @@ My leetcode problems
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anuttaman216/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0877-stone-game](https://github.com/Anuttaman216/Leetcode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuttaman216/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/Anuttaman216/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -34,6 +35,7 @@ My leetcode problems
 | ------- |
 | [0009-palindrome-number](https://github.com/Anuttaman216/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Anuttaman216/Leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Anuttaman216/Leetcode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anuttaman216/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anuttaman216/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -100,4 +102,20 @@ My leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anuttaman216/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anuttaman216/Leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anuttaman216/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anuttaman216/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anuttaman216/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
