@@ -10,6 +10,7 @@ My leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuttaman216/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Anuttaman216/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Anuttaman216/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Anuttaman216/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuttaman216/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anuttaman216/Leetcode/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ My leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anuttaman216/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Anuttaman216/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuttaman216/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
